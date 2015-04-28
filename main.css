@@ -1,0 +1,31 @@
+body {
+	margin-top: 50px;
+}
+
+.container {
+	width: 600px;
+	background-color: hsla(211, 0%, 61%, 1.0);
+	padding-top: 20px;
+	margin: auto;
+	text-align: center;
+
+
+
+}
+
+h2 {
+	color: white;
+}
+
+ .container .answer {
+    padding: 10px; 
+}
+ 
+
+ .container input {
+    border-radius: 10px;
+    border: 3px solid black; 
+}
+
+
+
